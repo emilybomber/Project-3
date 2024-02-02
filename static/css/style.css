@@ -1,0 +1,40 @@
+html,
+body,
+#map-id {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.legend {
+  padding: 10px;
+  -webkit-text-stroke: .5px black;
+  font-family: Optima, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 18px;
+  color: #e2e2e2;
+  background-color: rgb(231, 223, 223);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend .very-low {
+  color: #007dff;
+}
+
+.legend .low {
+  color: #1b904f;
+}
+
+.legend .medium {
+  color: #f4ba48;
+}
+
+.legend .high {
+  color: #ec8a2e;
+}
+
+.legend .very-high {
+  color: #a0353a;
+}

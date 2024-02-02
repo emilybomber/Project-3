@@ -1,2 +1,10 @@
 # Project-3
-##Data NOAA
+Microplastic Project Overview:
+
+Interactacting with the project: 
+
+Ethical considerations:
+
+References(Data):
+
+References(Code): 
