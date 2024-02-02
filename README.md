@@ -1,4 +1,4 @@
-# Project-3
+# Exploring the Issues of Microplastics in our Waterways
 ## Microplastic Project Overview:
 Microplatics “Plastic debris can come in all shapes and sizes, those that are less than five millimeters in length (about the size of a sesame seed) are known as “microplastics.” 
 
