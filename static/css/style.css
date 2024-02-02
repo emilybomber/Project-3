@@ -8,12 +8,13 @@ body,
 
 .legend {
   padding: 10px;
-  font-family: Sanchez, serif;
+  -webkit-text-stroke: .5px black;
+  font-family: Optima, sans-serif;
   font-size: 16px;
   font-weight: bold;
   line-height: 18px;
-  color: #555;
-  background-color: white;
+  color: #e2e2e2;
+  background-color: rgb(231, 223, 223);
   border-radius: 5px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }

@@ -1,6 +1,7 @@
 // Create the tile layer that will be the background of our map.
-let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+let streetmap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
+	attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
+	maxZoom: 16
 });
 
 // Initialize all the LayerGroups that we'll use.
@@ -14,14 +15,14 @@ let layers = {
 
 // Create the map with our layers.
 let map = L.map("map-id", {
-  center: [40.73, -74.0059],
+  center: [38, -145],
   zoom: 3,
   layers: [
     layers.VERY_HIGH,
-    layers.HIGH,
-    layers.MEDIUM,
-    layers.LOW,
-    layers.VERY_LOW
+    // layers.HIGH,
+    // layers.MEDIUM,
+    // layers.LOW,
+    // layers.VERY_LOW
   ]
 });
 
@@ -59,13 +60,13 @@ let icons = {
     // icon: "ion-settings",
     // iconColor: "white",
     markerColor: "red",
-    // shape: "star"
+    shape: "star"
   }),
   HIGH: L.ExtraMarkers.icon({
     // icon: "ion-android-bicycle",
     // iconColor: "white",
     markerColor: "orange",
-    // shape: "circle"
+    shape: "star"
   }),
   MEDIUM: L.ExtraMarkers.icon({
     // icon: "ion-android-bicycle",
@@ -108,7 +109,7 @@ d3.json("Resources/Microplastic.json").then(function(infoRes) {
   let plasticSizeCode;
 
   // Loop through the stations (they're the same size and have partially matching data).
-  for (let i = 0; i < plasticsInfo.length; i+=10) {
+  for (let i = 0; i < plasticsInfo.length; i+=100) {
 
     let sample = plasticsInfo[i].attributes;
 
@@ -143,7 +144,7 @@ d3.json("Resources/Microplastic.json").then(function(infoRes) {
     newMarker.addTo(layers[plasticSizeCode]);
 
     // // Bind a popup to the marker that will  display on being clicked. This will be rendered as HTML.
-    newMarker.bindPopup("Object ID: " + sample.OBJECTID + "<br> Sample Method: " + sample.SAMPMETHOD + "<br>" + sample.MEASUREMEN + " " + sample.UNIT);
+    newMarker.bindPopup("<h3>Object ID: " + sample.OBJECTID + "</h3>Sample Method: " + sample.SAMPMETHOD + "<br>Organization: " + sample.ORG );
   }
   console.log(plasticsCount);
   // Call the updateLegend function, which will update the legend!
