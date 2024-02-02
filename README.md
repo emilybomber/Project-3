@@ -4,10 +4,13 @@
 Microplatics Defintion “Plastic debris can come in all shapes and sizes, those that are less than five millimeters in length (about the size of a sesame seed) are known as “microplastics.” 
 This project goal was to show the scale and prevaniness of micrroplatics within our waterways.
 
+![image](https://github.com/emilybomber/Project-3/assets/146396417/f98b486c-c4d6-4e91-80b5-070a1e640315)
+
+
 ## Guide for interactacting the World Microplastic Map: 
 
 ## Ethical considerations:
-This projects was completed through the lense of enviormental justice. Ethical consideration where taken on citing the data. 
+This projects was completed through the lense of enviormental justice. Understanding that the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies. Additonally ethical consideration where taken on citing the data. 
 
 ## References(Data):
 All data was used for this project was pull from NOAA. (National Oceanic and Atmospheric Administration)
