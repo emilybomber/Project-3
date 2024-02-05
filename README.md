@@ -19,7 +19,7 @@ Click on an indidual point to find additonal infomation about the selected point
 This projects was completed through the lense of enviormental justice. Understanding that the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies. Additonally ethical consideration where taken on citing the data. 
 
 ## References(Data):
-All data was used for this project was pull from NOAA. (National Oceanic and Atmospheric Administration)
+All data used for this project was pull from NOAA. (National Oceanic and Atmospheric Administration)
 
 Citation: NOAA/ National Centers for Environmental Information (NCEI) (2022): Microplastics Database . NCEI Marine Microplastics. NOAA National Centers for Environmental Information. Last Accessed 2/1/2024.
 
