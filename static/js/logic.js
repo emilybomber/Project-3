@@ -57,32 +57,32 @@ legend.addTo(map);
 // Initialize an object that contains icons for each layer group.
 let icons = {
   VERY_HIGH: L.ExtraMarkers.icon({
-    // icon: "ion-settings",
-    // iconColor: "white",
+    icon: "ion-alert",
+    iconColor: "white",
     markerColor: "red",
     shape: "star"
   }),
   HIGH: L.ExtraMarkers.icon({
-    // icon: "ion-android-bicycle",
-    // iconColor: "white",
-    markerColor: "orange",
+    icon: "ion-alert",
+    iconColor: "white",
+    markerColor: "orange-dark",
     shape: "star"
   }),
   MEDIUM: L.ExtraMarkers.icon({
-    // icon: "ion-android-bicycle",
-    // iconColor: "white",
+    icon: "ion-android-warning",
+    iconColor: "white",
     markerColor: "yellow",
     // shape: "circle"
   }),
   LOW: L.ExtraMarkers.icon({
-    // icon: "ion-android-bicycle",
-    // iconColor: "white",
+    icon: "ion-android-sad",
+    iconColor: "white",
     markerColor: "green",
     // shape: "circle"
   }),
   VERY_LOW: L.ExtraMarkers.icon({
-    // icon: "ion-minus-circled",
-    // iconColor: "white",
+    icon: "ion-android-sad",
+    iconColor: "white",
     markerColor: "blue-dark",
     // shape: "penta"
   })
@@ -109,7 +109,7 @@ d3.json("Resources/Microplastic.json").then(function(infoRes) {
   let plasticSizeCode;
 
   // Loop through the stations (they're the same size and have partially matching data).
-  for (let i = 0; i < plasticsInfo.length; i+=100) {
+  for (let i = 0; i < plasticsInfo.length; i+=50) {
 
     let sample = plasticsInfo[i].attributes;
 
