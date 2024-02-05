@@ -8,6 +8,12 @@ This project goal was to show the scale and prevaniness of micrroplatics within 
 
 
 ## Guide for interactacting the World Microplastic Map: 
+To intact with the map start by navigating to the top of the of the hand corner.
+Select 
+
+<img width="160" alt="image" src="https://github.com/emilybomber/Project-3/assets/146396417/f3afb0bc-d3e2-46e0-83b5-2cc30f2ed3c0">
+
+Click on an indidual point to find additonal infomation about the selected point.
 
 ## Ethical considerations:
 This projects was completed through the lense of enviormental justice. Understanding that the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies. Additonally ethical consideration where taken on citing the data. 
