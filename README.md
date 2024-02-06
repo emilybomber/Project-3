@@ -8,10 +8,12 @@ This project goal was to show the scale and prevaniness of micrroplatics within 
 
 
 ## Guide for interactacting the World Microplastic Map: 
-To intact with the map start by navigating to the top of the of the hand corner.
-Select 
+To intact with the map start by navigating to the top left-hand corner.
+Select the Icon.
 
 <img width="160" alt="image" src="https://github.com/emilybomber/Project-3/assets/146396417/f3afb0bc-d3e2-46e0-83b5-2cc30f2ed3c0">
+
+Select from the list "From Very High to Very Low" Level of Microplastic, to populate on the map on the map. 
 
 Click on an indidual point to find additonal infomation about the selected point.
 
@@ -26,6 +28,9 @@ Citation: NOAA/ National Centers for Environmental Information (NCEI) (2022): Mi
 The NOAA NCEI global Marine Microplastics product provides access to aggregated, comprehensive, standardized, quality controlled, global data on microplastics in marine settings, from 1972-Present. The database contains information on microplastics concentrations (reported in units based on marine setting - pieces/m3, pieces/10 mins, or pieces kg-1 d.w.), date of collection, latitude and longitude where data was collected, sampling instruments used for collection, and links to publications on the data. The information in this database can be used to improve water quality and protect the ecosystem, especially coastal ecological habitats such as salt marshes and mangrove forests that help recycle nutrients, serve as breeding grounds for fingerlings, and permanent homes for oysters and other coastal marine wildlife.
 
 ## References(Code): 
-The Map 
+Map 
+https://leaflet-extras.github.io/leaflet-providers/preview/
 
-Additonal Leaflet 
+Leaflets
+Leaflet.ExtraMarkers
+https://github.com/coryasilva/Leaflet.ExtraMarkers
