@@ -8,14 +8,25 @@ This project goal was to show the scale and prevaniness of micrroplatics within 
 
 
 ## Guide for interactacting the World Microplastic Map: 
+Start by using the link to open
+https://leaflet-extras.github.io/leaflet-providers/preview/
+
 To intact with the map start by navigating to the top left-hand corner.
 Select the Icon.
 
 <img width="160" alt="image" src="https://github.com/emilybomber/Project-3/assets/146396417/f3afb0bc-d3e2-46e0-83b5-2cc30f2ed3c0">
 
-Select from the list "From Very High to Very Low" Level of Microplastic, to populate on the map on the map. 
+Select from the list "From Very High to Very Low" Level of Microplastic. Click on level to populate on the map. 
+
+
+![image](https://github.com/emilybomber/Project-3/assets/146396417/fb715938-c90d-4c11-b096-96873b626644)
+
 
 Click on an indidual point to find additonal infomation about the selected point.
+
+
+![image](https://github.com/emilybomber/Project-3/assets/146396417/006c83e5-c380-454c-b82f-44eb5ecaae91)
+
 
 ## Ethical considerations:
 This projects was completed through the lense of enviormental justice. Understanding that the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies. Additonally ethical consideration where taken on citing the data. 
