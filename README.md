@@ -48,6 +48,7 @@ The NOAA NCEI global Marine Microplastics product provides access to aggregated,
 Map 
 https://leaflet-extras.github.io/leaflet-providers/preview/
 
-Leaflets Plug-Ins
-Leaflet.ExtraMarkers
+Leaflets Plugins
+Leaflet.ExtraMarkers - 
 https://github.com/coryasilva/Leaflet.ExtraMarkers
+Icons - https://github.com/lennardv2/Leaflet.awesome-markers
