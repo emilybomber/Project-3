@@ -11,7 +11,11 @@ The goal of this project was to illustrate the scale and pervasiveness of microp
 
 
 ## Guide for interactacting the World Microplastic Map: 
-Start by using the index to open. To interact with the map, begin by navigating to the top left-hand corner and selecting the icon:
+Start by using the index to open. 
+
+<img width="833" alt="image" src="https://github.com/emilybomber/Project-3/assets/146396417/70c64314-75a2-4e89-95ca-285673e40ea9">
+
+To interact with the map, begin by navigating to the top left-hand corner and selecting the icon:
 
 <img width="160" alt="image" src="https://github.com/emilybomber/Project-3/assets/146396417/f3afb0bc-d3e2-46e0-83b5-2cc30f2ed3c0">
 
