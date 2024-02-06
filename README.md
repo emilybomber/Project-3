@@ -10,7 +10,7 @@ The goal of this project was to illustrate the scale and pervasiveness of microp
 ![image](https://github.com/emilybomber/Project-3/assets/146396417/f98b486c-c4d6-4e91-80b5-070a1e640315)
 
 
-## Guide for interactacting the World Microplastic Map: 
+## Guide for interacting the World Microplastic Map: 
 Start by using the index to open the map. 
 
 <img width="833" alt="image" src="https://github.com/emilybomber/Project-3/assets/146396417/70c64314-75a2-4e89-95ca-285673e40ea9">
