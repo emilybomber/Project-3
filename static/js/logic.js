@@ -109,7 +109,7 @@ d3.json("Resources/Microplastic.json").then(function(infoRes) {
   let plasticSizeCode;
 
   // Loop through the stations (they're the same size and have partially matching data).
-  for (let i = 0; i < plasticsInfo.length; i+=50) {
+  for (let i = 0; i < plasticsInfo.length; i+=10) {
 
     let sample = plasticsInfo[i].attributes;
 
@@ -144,7 +144,7 @@ d3.json("Resources/Microplastic.json").then(function(infoRes) {
     newMarker.addTo(layers[plasticSizeCode]);
 
     // // Bind a popup to the marker that will  display on being clicked. This will be rendered as HTML.
-    newMarker.bindPopup("<h3>Object ID: " + sample.OBJECTID + "</h3>Sample Method: " + sample.SAMPMETHOD + "<br>Organization: " + sample.ORG );
+    newMarker.bindPopup("<h3>Object ID: " + sample.OBJECTID + "</h3>Sample Method: " + sample.SAMPMETHOD + "<br>Organization: " + sample.ORG + "<br>Latitude: " + sample.Latitude + "<br>Longitude: " + sample.Longitude);
   }
   console.log(plasticsCount);
   // Call the updateLegend function, which will update the legend!
