@@ -28,6 +28,9 @@ Click on an individual point to find additional information about the selected p
 ## Ethical considerations:
 This projects was completed through the lense of enviormental justice. Understanding that the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies. Additonally ethical consideration where taken on citing the data. 
 
+Inspiration was drawn from the NOAA map:
+https://experience.arcgis.com/experience/b296879cc1984fda833a8acc93e31476
+
 ## References(Data):
 All data used for this project was pull from NOAA. (National Oceanic and Atmospheric Administration)
 
