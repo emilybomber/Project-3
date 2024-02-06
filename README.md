@@ -45,10 +45,10 @@ Citation: NOAA/ National Centers for Environmental Information (NCEI) (2022): Mi
 The NOAA NCEI global Marine Microplastics product provides access to aggregated, comprehensive, standardized, quality controlled, global data on microplastics in marine settings, from 1972-Present. The database contains information on microplastics concentrations (reported in units based on marine setting - pieces/m3, pieces/10 mins, or pieces kg-1 d.w.), date of collection, latitude and longitude where data was collected, sampling instruments used for collection, and links to publications on the data. The information in this database can be used to improve water quality and protect the ecosystem, especially coastal ecological habitats such as salt marshes and mangrove forests that help recycle nutrients, serve as breeding grounds for fingerlings, and permanent homes for oysters and other coastal marine wildlife.
 
 ## References(Code): 
-Map 
+Map -
 https://leaflet-extras.github.io/leaflet-providers/preview/
 
 Leaflets Plugins
-Leaflet.ExtraMarkers - 
-https://github.com/coryasilva/Leaflet.ExtraMarkers
+Leaflet.ExtraMarkers - https://github.com/coryasilva/Leaflet.ExtraMarkers
+
 Icons - https://github.com/lennardv2/Leaflet.awesome-markers
