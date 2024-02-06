@@ -1,29 +1,26 @@
 # Understading Microplastics in our Waterways
 
 ## Microplastic Project Overview:
-Microplatics Defintion “Plastic debris can come in all shapes and sizes, those that are less than five millimeters in length (about the size of a sesame seed) are known as “microplastics.” 
-This project goal was to show the scale and prevaniness of micrroplatics within our waterways.
+Microplastics Definition: "Plastic debris can come in all shapes and sizes, those that are less than five millimeters in length (about the size of a sesame seed) are known as 'microplastics'."
+
+Microplastics are harmful due to their persistence in the environment, ability to absorb toxic chemicals, ingestion by marine life leading to physical harm and toxicity, promotion of harmful microbial growth, and potential risks to human health through contaminated food and water sources. Their presence poses threats to ecosystems, biodiversity, and human well-being, making them a significant environmental concern.
+
+The goal of this project was to illustrate the scale and pervasiveness of microplastics within our waterways. 
 
 ![image](https://github.com/emilybomber/Project-3/assets/146396417/f98b486c-c4d6-4e91-80b5-070a1e640315)
 
 
 ## Guide for interactacting the World Microplastic Map: 
-Start by using the link to open
-https://leaflet-extras.github.io/leaflet-providers/preview/
-
-To intact with the map start by navigating to the top left-hand corner.
-Select the Icon.
+Start by using the index to open. To interact with the map, begin by navigating to the top left-hand corner and selecting the icon:
 
 <img width="160" alt="image" src="https://github.com/emilybomber/Project-3/assets/146396417/f3afb0bc-d3e2-46e0-83b5-2cc30f2ed3c0">
 
-Select from the list "From Very High to Very Low" Level of Microplastic. Click on level to populate on the map. 
-
+Then, select from the list "From Very High to Very Low" levels of Microplastic. Click on a level to populate it on the map.
 
 ![image](https://github.com/emilybomber/Project-3/assets/146396417/fb715938-c90d-4c11-b096-96873b626644)
 
 
-Click on an indidual point to find additonal infomation about the selected point.
-
+Click on an individual point to find additional information about the selected point.
 
 ![image](https://github.com/emilybomber/Project-3/assets/146396417/006c83e5-c380-454c-b82f-44eb5ecaae91)
 
